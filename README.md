@@ -39,6 +39,10 @@ I'm enthusiastic about collaborating on exciting projects and sharing innovative
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmishra00&theme=dark&hide_border=true" alt="GitHub Streak Stats for Suraj Mishra" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmishra00&layout=compact&theme=radical)
 
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajmishra00&show_icons=true&theme=radical)
