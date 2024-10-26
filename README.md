@@ -39,8 +39,8 @@ I'm enthusiastic about collaborating on exciting projects and sharing innovative
   </a>
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmishra00&layout=compact&theme=radical)
 
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajmishra00&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmishra00&layout=compact&theme=radical)
+
